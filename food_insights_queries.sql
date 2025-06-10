@@ -1,4 +1,4 @@
-
+--Queries
 --1. Find Top 3 Outlets by cuisine type without using limit and top function.
 --like in italian cuisine what are the top 3 restaurant with maximum number of orders.
 with cte as(
